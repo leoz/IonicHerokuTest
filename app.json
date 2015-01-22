@@ -1,0 +1,7 @@
+{
+    "name": "Ionic Heroku Test",
+    "description": "Test Ionic application to deploy to Heroku",
+    "repository": "https://github.com/leoz/IonicHerokuTest",
+    "logo": "https://raw.githubusercontent.com/leoz/IonicHerokuTest/master/www/img/ionic.png",
+    "keywords": ["ionic", "heroku", "test"]
+}
